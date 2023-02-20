@@ -1,5 +1,5 @@
-# snowflake_cheatsheet
-
+# snowflake certification cheatsheet
+here is my version of the preparation for snowflake certification, can view it if it is userful to you.
 
 # Genereal
 
